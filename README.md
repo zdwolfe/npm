@@ -1,4 +1,4 @@
-npm - Backs up my globally-installed npm package versions 
+Automatically back up current globally-installed npm packages 
 ===
 Clone into /path/to/src/npm
 Cronjob:
